@@ -1,0 +1,15 @@
+{
+  "name": "ping-bot",
+  "version": "1.0.0",
+  "description": "An incredibly useless bot that has a ping command! YAY!",
+  "main": "index.js",
+  "repository": "https://github.com/Rayzr522/ping-bot.git",
+  "author": "Rayzr522 <rayzr522@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  },
+  "scripts": {
+    "start": "node ."
+  }
+}
