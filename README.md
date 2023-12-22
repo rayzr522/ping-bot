@@ -20,5 +20,3 @@ Then duplicate `config.json.example` and rename it to `config.json`. After that,
 cd path/to/ping-bot
 yarn start
 ```
-
-> [Click here to join my crazy Discord!](https://discord.io/rayzrdevofficial)
